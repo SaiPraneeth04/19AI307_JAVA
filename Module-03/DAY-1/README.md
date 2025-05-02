@@ -18,8 +18,8 @@ To create a java program to read input and print length of the string in java.
  ```
 /*
 Program to implement a String and its Operations using Java
-Developed by: Onteddu Sirisha
-RegisterNumber: 212222230103
+Developed by: Sai Praneeth K
+RegisterNumber: 212222230067
 */
 ```
 
